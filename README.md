@@ -4,4 +4,4 @@
 Arrow keys, Z to select and X to go back
 In game: Arrow keys to move, Z to attack, X to shield
 
-Play Here : 
+Play Here : https://awesomcoder100.github.io/Fight/
